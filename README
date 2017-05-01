@@ -1,0 +1,54 @@
+A CBIR system using CWW
+
+INSRUCTIONS
+
+1. Place convnet in: /home/{user_name}/Programs/
+2. Place Project_005 in: /home/{user_name}/
+3. For changing to another dataset, the test images paths in files 'expr.py', 'proc.py' (in /home/{user_name}/Project_005/toronto/multimodal-neural-language-models/trunk/mnlm_code/) need to modified accordingly.
+4. Change the default {user_name} from 'teja' to required name, where ever a path is present in all the files.
+5. The MATLAB codes need not be run again. They are for calculating the feature vectors using the existing CBIR method. It is required only once.
+6. If any problem arises, first check if the paths in all files are correct; and then check any missing python (Python 2.7) packages or modules.
+7. Codes in /home/{user_name}/Project_005/toronto/multimodal-neural-language-models/trunk/mnlm_code/
+
+7.1 my_im2txt_v2.py -> for generating descriptions for the images in database.
+
+7.2 parsing_dataset.py -> for creating parse trees
+
+7.3 main_code_v9.py & main_code_v11.py	-> Experiment on WANG dataset
+
+7.4 main_code_v12.py & main_code_v13.py	-> Experiment on first dataset
+
+7.5 main_code_v14.py & main_code_v15.py	-> Experiment on second dataset
+
+7.6 main_code_v16.py & main_code_v17.py	-> Experiment on third dataset
+
+8. All python codes are run in Ubuntu 16.04 & MATLAB codes in Windows 7 Ultimate.
+
+[Note: Codes 7.4, 7.5, 7.6 take upto 5 hours for plotting the precision-recall curves.]
+[Note: If you want to run MATLAB codes, need to download the original dataset (references in Thesis), as I have given only the dataset after preprocessing in most cases]
+
+REFERENCES
+
+1. IAPR TC-12 Dataset: http://www.cs.toronto.edu/~rkiros/multimodal.html
+
+2. Stanford Lex-Parser: http://nlp.stanford.edu/software/lex-parser.shtml
+
+3. J. Z.Wang, “Wang database,” 2010, http://wang.ist.psu.edu/
+
+4. Jean Ponce, Fei-Fei Li, Aude Oliva: http://www-cvr.ai.uiuc.edu/ponce_grp/data/
+
+5. B. Zhou, A. Khosla, A. Lapedriza, A. Torralba and A. Oliva, "Places: An Image Database for Deep Scene Understanding", arXiv:1610.02055.
+
+6. Aude Oliva, Antonio Torralba: http://people.csail.mit.edu/torralba/code/spatialenvelope/
+
+7. Ranklet Transform MATLAB Implementation: http://www.eecs.qmul.ac.uk/~fabri/www.ranklets.net/Downloads.html
+
+OTHER USEFUL LINKS
+
+1. http://deeplearning.cs.toronto.edu/codes
+2. http://imageclef.org/photodata
+3. http://www.cs.toronto.edu/~rkiros/multimodal.html
+4. http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+5. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+6. https://code.google.com/archive/p/multimodal-neural-language-models/wikis/GettingStarted.wiki
+

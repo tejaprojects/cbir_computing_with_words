@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/trunk/mnlm_code/utils
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/mnlm_code/utils/__init__.py
+END
+stop.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/mnlm_code/utils/stop.py
+END
+bleu.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/mnlm_code/utils/bleu.py
+END
+lm_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/mnlm_code/utils/lm_tools.py
+END
+svd_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/mnlm_code/utils/svd_tools.py
+END
