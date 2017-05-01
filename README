@@ -29,12 +29,12 @@ REFERENCES
   5. B. Zhou, A. Khosla, A. Lapedriza, A. Torralba and A. Oliva, "Places: An Image Database for Deep Scene Understanding", arXiv:1610.02055.
   6. Aude Oliva, Antonio Torralba: http://people.csail.mit.edu/torralba/code/spatialenvelope/
   7. Ranklet Transform MATLAB Implementation: http://www.eecs.qmul.ac.uk/~fabri/www.ranklets.net/Downloads.html
+  8. http://www.cs.toronto.edu/~nitish/models/CLS_net_20140621074703.h5
 
 OTHER USEFUL LINKS
 
   1. http://deeplearning.cs.toronto.edu/codes
   2. http://imageclef.org/photodata
-  3. http://www.cs.toronto.edu/~rkiros/multimodal.html
-  4. http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-  5. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-  6. https://code.google.com/archive/p/multimodal-neural-language-models/wikis/GettingStarted.wiki
+  3. http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+  4. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+  5. https://code.google.com/archive/p/multimodal-neural-language-models/wikis/GettingStarted.wiki
