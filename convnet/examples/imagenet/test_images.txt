@@ -1,0 +1,10 @@
+test_images/0
+test_images/1
+test_images/2
+test_images/3
+test_images/4
+test_images/5
+test_images/6
+test_images/7
+test_images/8
+test_images/9
