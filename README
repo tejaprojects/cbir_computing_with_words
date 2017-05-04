@@ -16,6 +16,7 @@ INSRUCTIONS
     7.5 main_code_v14.py & main_code_v15.py	-> Experiment on second dataset
     7.6 main_code_v16.py & main_code_v17.py	-> Experiment on third dataset
   8. All python codes are run in Ubuntu 16.04 & MATLAB codes in Windows 7 Ultimate.
+  9. Extract all .tar.gz and .zip files before executing the scripts.
 
 [Note: Codes 7.4, 7.5, 7.6 take upto 5 hours for plotting the precision-recall curves.]
 [Note: If you want to run MATLAB codes, need to download the original dataset (REFERENCES), as I have given only the dataset after preprocessing in most cases]
